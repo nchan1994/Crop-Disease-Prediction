@@ -1,0 +1,2 @@
+# Crop-Disease-Prediction
+In this project, I was contracted by Rooftop Republic (https://rooftoprepublic.com/) as part of a Hackathon event to build applications that would bring added business value to their business. With the implementation of technology and improving logistical operations as their focus, I decided to build a AI model that would help them predict and identify the level of heath of their crops, which will help increase their ability to grow crops that are healthy and sustainable.
